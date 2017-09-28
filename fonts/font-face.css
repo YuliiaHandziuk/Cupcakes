@@ -1,0 +1,14 @@
+@font-face {
+font-family: Cultbold;
+src:url(../fonts/cyrillic_font_moloko_by_wakabaru.ttf);
+}
+
+@font-face {
+font-family: Uni_Thin;
+src:url(../fonts/uni-sans/Uni_Sans_Thin.otf);
+}
+
+@font-face {
+font-family: Uni_Heavy;
+src:url(../fonts/uni-sans/Uni_Sans_Heavy_Italic.otf);
+}
